@@ -1,13 +1,19 @@
-# tdl-warmup-nodejs
+# tdl-runner-csharp
 
+The C# (.Net) challenge runner
 
 ## 1. Requirements
 
-- `Node 5.6.0`
-- `NPM 3.6.0`
+IDE
+- `Microsoft Visual Studio 2015`
+- `Microsoft Visual Studio 2017`
+- `JetBrains Rider`
+
+.NET Framework
+- `4.5`
 
 ## 2. How to start
 
-- Install dependencies `npm install`
-- Open `lib/send_command_to_server.js`
+- Open solution `befaster.sln`
+- In solution open `BeFaster.App/SendCommandToServer.cs`
 - Read the comments as documentation, they will guide through the rest of the setup
